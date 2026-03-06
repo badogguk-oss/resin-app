@@ -1,0 +1,27 @@
+{
+  "short_name": "Resin Planner",
+  "name": "Resin Art Business Planner",
+  "description": "Aplikasi perencanaan bisnis resin art — produk, order, stok, dan keuangan.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#B8722A",
+  "background_color": "#F7F3EE",
+  "scope": "/",
+  "lang": "id",
+  "categories": ["business", "finance", "productivity"]
+}
